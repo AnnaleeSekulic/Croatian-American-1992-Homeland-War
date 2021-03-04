@@ -1,8 +1,8 @@
-# Croatian-American-1992-Homeland-War
+#  The Croatian-American Social Memory Repository: 1992 Croatian Homeland War 
 
 Hello! Bok! 
 
-Welcome to The Croatian-American Social Memory Repository: 1992 Croatian Homeland War. This repository welcomes all to explore the collection and contribute their personal experiences as a Croatian-American Diaspora to ensure equitable and transparent documentation of history / Dobrodošli u Hrvatsko-američko spremište društvenog sjećanja: Hrvatski Domovinski rat 1992. godine. Ovo spremište pozdravlja sve koji istražuju zbirku i doprinose svojim osobnim iskustvima hrvatsko-američke dijaspore kako bi osigurali pravednu i transparentnu dokumentaciju povijesti.
+Welcome to The Croatian-American Social Memory Repository: 1992 Croatian Homeland War. This repository welcomes all to explore the collection and contribute their personal experiences as a Croatian-American Diaspora through video recording or written testimonials and submitted documents. / Dobrodošli u Hrvatsko-američko spremište društvenog sjećanja: Hrvatski Domovinski rat 1992. godine. Ovo spremište pozdravlja sve koji istražuju zbirku i doprinose svojim osobnim iskustvima hrvatsko-američke dijaspore putem video snimanja ili pisanih svjedočanstava i predanih dokumenata.
 
 We aim to work with the Croatian-American community to build a video interview, voice recording, and document repository so future scholars can understand the multiple ways the Croatian-Americas were involved with the 1992 Croatian Homeland War and the independence of the free Croatian State / Cilj nam je surađivatis hrvatsko-američkom zajednicom na izgradnji video intervjua, snimanja glasa i spremišta dokumenata kako bi budući znanstvenici mogli razumjeti višestruke načine na koje su Hrvati i Amerike bili uključeni u hrvatski domovinski rat 1992. godine i neovisnost slobodne hrvatske države .
 
