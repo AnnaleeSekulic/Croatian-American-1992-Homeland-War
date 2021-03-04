@@ -9,7 +9,15 @@ We aim to work with the Croatian-American community to build a video interview, 
 
 30 years on, the Croatian-American 1992 Homeland War Repository invites us to consider a longer, more complicated and ongoing relationship between American-Diaspora and the Balkans. Through the use of open life repositories – a unique repository for all persons experiences and involvements to be documented -  allows for equitable and accessible development of a social narrative on diaspora involvement. / Nakon 30 godina, Hrvatsko-američko spremište Domovinskog rata iz 1992. godine poziva nas da razmotrimo duži, složeniji i trajniji odnos između američko-dijaspore i Balkana. Korištenjem spremišta otvorenog života - jedinstvenog spremišta za sva iskustva i sudjelovanja ljudi koje treba dokumentirati - omogućuje pravedan i pristupačan razvoj društvenog narativa o uključenosti dijaspore.
 
-        Show how to get started using or contributing to the project. If you’re just getting started, this could be as simple as asking people to attend a planning         call or kick-off event, or sign up for an email newsletter about the project. If you’re not sure quite how to get users involved just yet, don’t worry! In           the next module, you’ll devise some ways for newcomers to get involved, and create contributor guidelines. Once you’ve done the next module, you can come           back to this README and add a link to contributor guidelines to this section.
+    - What are we doing? (And why?)
+    - Who are we?
+    - How you can get involved?
+    - LICENCSE
+    - CODE OF CONDUCT
+    - Help: Understand the Jargon
+    - Help: Frequently Asked QUestions
+    - Get in Touch! 
+   
 
 Resources Currently Needed: Funding, Website Building, Croatian-American Network Connections
 Trenutno Potrebni Resursi: Financiranje, izrada web stranica, hrvatsko-američke mrežne veze
