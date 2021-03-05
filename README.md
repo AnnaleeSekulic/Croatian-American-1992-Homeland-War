@@ -9,7 +9,7 @@ We aim to work with the Croatian-American community to build a video interview, 
 
 30 years on, the Croatian-American 1992 Homeland War Repository invites us to consider a longer, more complicated and ongoing relationship between American-Diaspora and the Balkans. Through the use of open life repositories – a unique repository for all persons experiences and involvements to be documented -  allows for equitable and accessible development of a social narrative on diaspora involvement. / Nakon 30 godina, Hrvatsko-američko spremište Domovinskog rata iz 1992. godine poziva nas da razmotrimo duži, složeniji i trajniji odnos između američko-dijaspore i Balkana. Korištenjem spremišta otvorenog života - jedinstvenog spremišta za sva iskustva i sudjelovanja ljudi koje treba dokumentirati - omogućuje pravedan i pristupačan razvoj društvenog narativa o uključenosti dijaspore.
 
- 
+### Learn More 
     - [What are we doing? (And why?)]
 - [Who are we?](https://github.com/AnnaleeSekulic/Croatian-American-1992-Homeland-War/blob/main/About%20Us.md) 
     - How you can get involved?
@@ -17,8 +17,12 @@ We aim to work with the Croatian-American community to build a video interview, 
     - CODE OF CONDUCT
     - Help: Understand the Jargon
     - Help: Frequently Asked QUestions
-    - Get in Touch! 
    
+### Get in Touch!
 
-Resources Currently Needed: Funding, Website Building, Croatian-American Network Connections
-Trenutno Potrebni Resursi: Financiranje, izrada web stranica, hrvatsko-američke mrežne veze
+Email all questions and inquires to croatianamericanrepository@gmail.com 
+
+#### Our Team
+![AnnaleeSekulic](https://media-exp1.licdn.com/dms/image/C4E03AQG-lbqSXR0NmA/profile-displayphoto-shrink_800_800/0/1600353459141?e=1620259200&v=beta&t=9CVHSsFp6Ega8UNVZuZuDpcV8Ac5ICWZmJslIgrdEIQ)
+[Annalee Sekulic](https://github.com/AnnaleeSekulic) 
+sekulic.3@osu.edu
