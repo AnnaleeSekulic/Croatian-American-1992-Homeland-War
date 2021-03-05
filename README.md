@@ -11,7 +11,7 @@ We aim to work with the Croatian-American community to build a video interview, 
 
  
     - [What are we doing? (And why?)]
-- [Who are we?](About Us.md) 
+- [Who are we?](https://github.com/AnnaleeSekulic/Croatian-American-1992-Homeland-War/blob/main/About%20Us.md) 
     - How you can get involved?
     - LICENCSE
     - CODE OF CONDUCT
