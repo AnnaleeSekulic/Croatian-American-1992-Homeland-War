@@ -24,6 +24,6 @@ Email all questions and inquires to croatianamericanrepository@gmail.com
 
 #### Our Team
 
-![Annalee Sekulic](https://www.flickr.com/photos/192469333@N06/shares/4n0t7A)|
+![AnnaleeSekulic](https://www.flickr.com/photos/192469333@N06/shares/4n0t7A)|
 ---|
 [Annalee Sekulić](https://github.com/AnnaleeSekulic)|
