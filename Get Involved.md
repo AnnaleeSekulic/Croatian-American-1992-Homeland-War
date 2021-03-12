@@ -1,7 +1,7 @@
 # How To Get Involved
 
-##Video
+## Video
 
-##Document
+## Document
 
-##Photograph
+## Photograph
