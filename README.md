@@ -24,8 +24,8 @@ Email all questions and inquires to croatianamericanrepository@gmail.com
 
 #### Our Team
 
-<img src="https://live.staticflickr.com/65535/51026851626_e2c86bd40c_c.jpg" alt="AnnaleeSekulic" width="150">|
---|
-[Annalee Sekulić](https://github.com/AnnaleeSekulic), is a landscape anthropoloigst from Ohio State Universtiy and second gerneration Croatian-America, who supports the narration of history to be from those who lived it. |
+<img src="https://live.staticflickr.com/65535/51026851626_e2c86bd40c_c.jpg" alt="AnnaleeSekulic" width="150">
+
+[Annalee Sekulić](https://github.com/AnnaleeSekulic), is a landscape anthropoloigst from Ohio State Universtiy and second gerneration Croatian-America, who supports the narration of history to be from those who lived it. 
 
 Join the Team -> email croatianamericanrepository@gmail.com 
