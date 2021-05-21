@@ -10,7 +10,13 @@ Import Resources for Contributors
 
 ## Submit your Testimonies
 
+Upload your documents and videos here:
+
+https://forms.gle/rRg5zq88gAYgNQi97
+
 ## Access Testimonies
+
+
 
 ## How to Report a Bug?
 A bug often refers to a problem that needs to be fixed.
