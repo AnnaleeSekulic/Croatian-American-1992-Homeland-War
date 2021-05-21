@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ...help future historians and scholars understand the past from the voices and eyes of those who lived it 
 
 You can use the [editor on GitHub](https://github.com/AnnaleeSekulic/Croatian-American-1992-Homeland-War/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
