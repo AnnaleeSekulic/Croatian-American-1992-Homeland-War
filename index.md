@@ -9,7 +9,7 @@ We aim to work with the Croatian-American community to build a video interview, 
 
 ### Learn More 
 - [How you can get involved?](https://github.com/AnnaleeSekulic/Croatian-American-1992-Homeland-War/blob/main/Get%20Involved.md)
-- [INTERVIEW GUIDE]  
+- [INTERVIEW GUIDE](https://github.com/AnnaleeSekulic/Croatian-American-1992-Homeland-War/blob/main/Get%20Involved.md)
 - [Resources](https://github.com/AnnaleeSekulic/Croatian-American-1992-Homeland-War/blob/main/Resources.md)
 - [LICENSE](https://github.com/AnnaleeSekulic/Croatian-American-1992-Homeland-War/blob/main/LICENSE)
 - [CODE OF CONDUCT](https://github.com/AnnaleeSekulic/Croatian-American-1992-Homeland-War/blob/main/CODE_OF_CONDUCT.md) 
